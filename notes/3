@@ -1,0 +1,17 @@
+
+<!DOCTYPE html> <html lang="en">   <head>     <meta charset="UTF-8" />     <meta http-equiv="X-UA-Compatible" content="IE=edge" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <title>Document</title>     <style>       * {         margin: 0;         padding: 0;       }       body{           background-color:#efefef;       }       img {         display: block;         margin: 0 auto;         max-width: 100%;         min-width: auto;       }     </style>   </head>   <body>
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-1.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-2.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-3.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-4.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-5.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-6.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-7.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-8.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-9.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-10.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-11.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-12.jpg" alt="" />
+<img src="https://res.cloudinary.com/fnepali/image/upload/Class%2011%20Nepali/3/3-13.jpg" alt="" />
+
+</body> </html>
