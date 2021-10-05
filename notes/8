@@ -2,42 +2,19 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        body {
-            background-color: #efefef;
-        }
-
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            min-width: auto;
-            padding: 10px 5px 10px 5px;
-        }
-    </style>
 </head>
 
 <body>
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-1.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-2.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-3.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-4.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-5.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-6.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-7.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-8.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-9.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-10.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-11.jpg" alt="" />
-<img src="https://res.cloudinary.com/gnepali/image/upload/Class%2011%20Nepali/8/8-12.jpg" alt="" />
+    <br>
+    <center>
+        <h3 style="color:red">Notes will be available soon</h3>
+    </center>
+    <br>
+    If you have any suggestions or feedbacks, please write to us at plus2help@gmail.com
+</body>
 
-</body> </html>
+</html>
